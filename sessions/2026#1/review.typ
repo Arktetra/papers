@@ -1,5 +1,5 @@
 #set page(margin: (left: 1.25in, right: 1.25in, top: 1in, bottom: 1in))
-#set text(size: 12pt)
+#set text(size: 11pt)
 #set par(justify: true, leading: 0.65em)
 #show heading: it => {
   it
